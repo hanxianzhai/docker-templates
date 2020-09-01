@@ -16,14 +16,14 @@
     SMB shares, TimeMachine will be autodetected and UIs will be accessible on regular hostnames and ports.
   </Overview>
   <Project>https://www.zerotier.com/</Project>
-  <Support>https://lime-technology.com/forums/topic/72030-support-spikhalskiy-zerotier/</Support>
-  <Registry>https://registry.hub.docker.com/u/spikhalskiy/zerotier/</Registry>
-  <GitHub>https://github.com/Spikhalskiy/zerotier-unraid-docker.git</GitHub>
-  <Repository>spikhalskiy/zerotier</Repository>
+  <Support>https://lime-technology.com/forums/topic/72030-support-hanxianzhai-zerotier/</Support>
+  <Registry>https://registry.hub.docker.com/u/hanxianzhai/zerotier/</Registry>
+  <GitHub>https://github.com/hanxianzhai/zerotier-unraid-docker.git</GitHub>
+  <Repository>hanxianzhai/zerotier</Repository>
   <BaseImage>alpine:3.10.2</BaseImage>
   <WebUI></WebUI>
-  <Banner>https://raw.githubusercontent.com/Spikhalskiy/docker-templates/master/images/zerotier_ico.png</Banner>
-  <Icon>https://raw.githubusercontent.com/Spikhalskiy/docker-templates/master/images/zerotier_ico.png</Icon>
+  <Banner>https://raw.githubusercontent.com/hanxianzhai/docker-templates/master/images/zerotier_ico.png</Banner>
+  <Icon>https://raw.githubusercontent.com/hanxianzhai/docker-templates/master/images/zerotier_ico.png</Icon>
   <Beta>False</Beta>
   <Category>Network:DNS Network:Management Network:Other</Category>
   <Date>2019-09-14</Date>
